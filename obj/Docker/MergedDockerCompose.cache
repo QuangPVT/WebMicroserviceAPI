@@ -1,0 +1,56 @@
+name: dockercompose7561487526750726740
+services:
+  userdb:
+    container_name: user-db
+    environment:
+      MYSQL_ROOT_PASSWORD: password@123456
+    image: mysql:8.0.39-oracle
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "8003"
+        protocol: tcp
+  userservice:
+    build:
+      context: D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI
+      dockerfile: UserService/Dockerfile
+    container_name: user-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      DB_HOST: userdb
+      DB_NAME: dms_user
+      DB_ROOT_PASSWORD: password@123456
+    image: userservice
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8004"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Acer\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Acer\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  backend:
+    name: dockercompose7561487526750726740_backend

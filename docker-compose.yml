@@ -1,0 +1,30 @@
+version: '3.4'
+
+networks:
+  backend:
+
+services:
+  userdb:
+    container_name: user-db
+    image: mysql:8.0.39-oracle
+    environment:
+      - MYSQL_ROOT_PASSWORD=password@123456
+    ports:
+      - 8003:3306
+    networks:
+      - backend
+
+  userservice:
+    container_name: user-api
+    image: ${DOCKER_REGISTRY-}userservice
+    build:
+      context: .
+      dockerfile: UserService/Dockerfile
+    networks:
+      - backend
+    ports:
+      - 8004:80
+    environment:
+      - DB_HOST=userdb
+      - DB_NAME=dms_user
+      - DB_ROOT_PASSWORD=password@123456
