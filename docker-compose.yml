@@ -28,3 +28,28 @@ services:
       - DB_HOST=userdb
       - DB_NAME=dms_user
       - DB_ROOT_PASSWORD=password@123456
+
+  blogdb:
+    container_name: blog-db
+    image: mysql:8.0.39-oracle
+    environment:
+      - MYSQL_ROOT_PASSWORD=password@123456
+    ports:
+      - 8005:3306
+    networks:
+      - backend
+
+  blogservice:
+    container_name: blog-api
+    image: ${DOCKER_REGISTRY-}blogservice
+    build:
+      context: .
+      dockerfile: BlogService/Dockerfile
+    networks:
+      - backend
+    ports:
+      - 8006:80
+    environment:
+      - DB_HOST=blogdb
+      - DB_NAME=dms_blog
+      - DB_ROOT_PASSWORD=password@123456 

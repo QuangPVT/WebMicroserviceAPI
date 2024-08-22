@@ -1,17 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage;
-using UserService.Models;
+using BlogService.Models;
 
-namespace UserService
+namespace BlogService
 {
     public class DbContext : Microsoft.EntityFrameworkCore.DbContext
     {
-        public DbSet<Roles> Roles { get; set; }
+        public DbSet<Blogs> Blogs { get; set; }
 
-        public DbSet<Users> Users { get; set; }
+        public DbSet<BlogType> BlogType { get; set; }
 
-        public DbSet<UserInfo> UserInfo { get; set; }
+        public DbSet<BlogInfo> BlogInfo { get; set; }
 
         public DbContext(DbContextOptions<DbContext> dbContextOptions) : base(dbContextOptions)
         {
@@ -39,19 +39,19 @@ namespace UserService
         }
         private void AddConstraints()
         {
-            // Add foreign key constraint from Users to Roles
+            // Add foreign key constraint from BlogInfo to Blogs
             Database.ExecuteSqlRaw(@"
-            USE dms_user;
-            ALTER TABLE Users
-            ADD CONSTRAINT FK_Users_Roles
-            FOREIGN KEY (role_id) REFERENCES Roles(role_id);");
+            USE dms_blog;
+            ALTER TABLE Blog_Info
+            ADD CONSTRAINT FK_BlogInfo_Blogs
+            FOREIGN KEY (blog_id) REFERENCES Blogs(blog_id);");
 
-            // Add foreign key constraint from UserInfo to Users
+            // Add foreign key constraint from BlogInfo to BlogType
             Database.ExecuteSqlRaw(@"
-            USE dms_user;
-            ALTER TABLE User_Info
-            ADD CONSTRAINT FK_UserInfo_Users
-            FOREIGN KEY (user_id) REFERENCES Users(user_id);");
+            USE dms_blog;
+            ALTER TABLE Blog_Info
+            ADD CONSTRAINT FK_BlogInfo_BlogType
+            FOREIGN KEY (type_id) REFERENCES Blog_Type(type_id);");
         }
     }
 }
