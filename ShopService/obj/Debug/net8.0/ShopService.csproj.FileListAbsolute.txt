@@ -1,7 +1,0 @@
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.csproj.AssemblyReference.cache
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.GeneratedMSBuildEditorConfig.editorconfig
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.AssemblyInfoInputs.cache
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.AssemblyInfo.cs
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.csproj.CoreCompileInputs.cache
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.MvcApplicationPartsAssemblyInfo.cache
-D:\Hoc_Tap\Future_Project\EliteGears\Backend\WebMicroserviceAPI\ShopService\obj\Debug\net8.0\ShopService.sourcelink.json

@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\blogservice\\models\\blogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|solutionrelative:blogservice\\models\\blogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\blogservice\\models\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|solutionrelative:blogservice\\models\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\blogservice\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|solutionrelative:blogservice\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\blogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774C4952-B483-4542-80CF-296610F2E163}|BlogService\\BlogService.csproj|solutionrelative:blogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E6E65A5-3A9C-43AC-A932-709CA5BDAEF7}|docker-compose.dcproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6E6E65A5-3A9C-43AC-A932-709CA5BDAEF7}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6E6E65A5-3A9C-43AC-A932-709CA5BDAEF7}|docker-compose.dcproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E6E65A5-3A9C-43AC-A932-709CA5BDAEF7}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\userservice\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|solutionrelative:userservice\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29400A3C-F4E7-4DDF-891B-F5E415D35437}|ShopService\\ShopService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\shopservice\\controllers\\shopwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29400A3C-F4E7-4DDF-891B-F5E415D35437}|ShopService\\ShopService.csproj|solutionrelative:shopservice\\controllers\\shopwarehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29400A3C-F4E7-4DDF-891B-F5E415D35437}|ShopService\\ShopService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\shopservice\\controllers\\shopinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29400A3C-F4E7-4DDF-891B-F5E415D35437}|ShopService\\ShopService.csproj|solutionrelative:shopservice\\controllers\\shopinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{29400A3C-F4E7-4DDF-891B-F5E415D35437}|ShopService\\ShopService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\shopservice\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29400A3C-F4E7-4DDF-891B-F5E415D35437}|ShopService\\ShopService.csproj|solutionrelative:shopservice\\controllers\\staffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A559694B-604B-46EF-9E2D-F3C52428E60B}|UserService\\UserService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -73,123 +57,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BlogType.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Models\\BlogType.cs",
-              "RelativeDocumentMoniker": "BlogService\\Models\\BlogType.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Models\\BlogType.cs",
-              "RelativeToolTip": "BlogService\\Models\\BlogType.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:45:29.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlogInfo.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Models\\BlogInfo.cs",
-              "RelativeDocumentMoniker": "BlogService\\Models\\BlogInfo.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Models\\BlogInfo.cs",
-              "RelativeToolTip": "BlogService\\Models\\BlogInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:45:18.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\DbContext.cs",
-              "RelativeDocumentMoniker": "UserService\\DbContext.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\DbContext.cs",
-              "RelativeToolTip": "UserService\\DbContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCkAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:48:59.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\Program.cs",
-              "RelativeDocumentMoniker": "UserService\\Program.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\Program.cs",
-              "RelativeToolTip": "UserService\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:40:16.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.csproj",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\UserService.csproj",
-              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\UserService.csproj",
-              "RelativeToolTip": "UserService\\UserService.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-22T05:03:44.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.http",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\UserService.http",
-              "RelativeDocumentMoniker": "UserService\\UserService.http",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\UserService.http",
-              "RelativeToolTip": "UserService\\UserService.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-22T04:48:53.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Program.cs",
-              "RelativeDocumentMoniker": "BlogService\\Program.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Program.cs",
-              "RelativeToolTip": "BlogService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:27:19.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Blogs.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Models\\Blogs.cs",
-              "RelativeDocumentMoniker": "BlogService\\Models\\Blogs.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\BlogService\\Models\\Blogs.cs",
-              "RelativeToolTip": "BlogService\\Models\\Blogs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:40:51.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
               "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\docker-compose.override.yml",
               "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-08-22T05:29:10.579Z",
+              "WhenOpened": "2024-08-22T09:52:11.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "StaffsController.cs",
+              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ShopService\\Controllers\\StaffsController.cs",
+              "RelativeDocumentMoniker": "ShopService\\Controllers\\StaffsController.cs",
+              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ShopService\\Controllers\\StaffsController.cs",
+              "RelativeToolTip": "ShopService\\Controllers\\StaffsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:16:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopWarehouseController.cs",
+              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ShopService\\Controllers\\ShopWarehouseController.cs",
+              "RelativeDocumentMoniker": "ShopService\\Controllers\\ShopWarehouseController.cs",
+              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ShopService\\Controllers\\ShopWarehouseController.cs",
+              "RelativeToolTip": "ShopService\\Controllers\\ShopWarehouseController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:23:36.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-22T09:27:45.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopInfoController.cs",
+              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ShopService\\Controllers\\ShopInfoController.cs",
+              "RelativeDocumentMoniker": "ShopService\\Controllers\\ShopInfoController.cs",
+              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ShopService\\Controllers\\ShopInfoController.cs",
+              "RelativeToolTip": "ShopService\\Controllers\\ShopInfoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:20:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\UserService\\appsettings.json",
               "RelativeDocumentMoniker": "UserService\\appsettings.json",

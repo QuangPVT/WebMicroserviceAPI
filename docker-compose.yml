@@ -53,3 +53,29 @@ services:
       - DB_HOST=blogdb
       - DB_NAME=dms_blog
       - DB_ROOT_PASSWORD=password@123456 
+
+  shopdb:
+    container_name: shop-db
+    image: mysql:8.0.39-oracle
+    environment:
+      - MYSQL_ROOT_PASSWORD=password@123456
+    ports:
+      - 8007:3306
+    networks:
+      - backend
+
+  shopservice:
+    container_name: shop-api
+    image: ${DOCKER_REGISTRY-}shopservice
+    build:
+      context: .
+      dockerfile: ShopService/Dockerfile
+    networks:
+      - backend
+    ports:
+      - 8008:80
+    environment:
+      - DB_HOST=shopdb
+      - DB_NAME=dms_shop
+      - DB_ROOT_PASSWORD=password@123456  
+
