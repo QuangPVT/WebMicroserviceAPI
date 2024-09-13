@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\models\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\models\\pagebanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\pagebanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\controllers\\pagebannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\pagebannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\controllers\\productinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E856FB0-D459-4703-A2D6-647BEC19ACED}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E6E65A5-3A9C-43AC-A932-709CA5BDAEF7}|docker-compose.dcproj|d:\\hoc_tap\\future_project\\elitegears\\backend\\webmicroserviceapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E6E65A5-3A9C-43AC-A932-709CA5BDAEF7}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-13T09:34:12.457Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -63,136 +40,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Products.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "ProductService\\Models\\Products.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\Products.cs",
-              "RelativeToolTip": "ProductService\\Models\\Products.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:39:54.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PageBanner.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\PageBanner.cs",
-              "RelativeDocumentMoniker": "ProductService\\Models\\PageBanner.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\PageBanner.cs",
-              "RelativeToolTip": "ProductService\\Models\\PageBanner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:49:52.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductInfo.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\ProductInfo.cs",
-              "RelativeDocumentMoniker": "ProductService\\Models\\ProductInfo.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\ProductInfo.cs",
-              "RelativeToolTip": "ProductService\\Models\\ProductInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:37:57.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductType.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\ProductType.cs",
-              "RelativeDocumentMoniker": "ProductService\\Models\\ProductType.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Models\\ProductType.cs",
-              "RelativeToolTip": "ProductService\\Models\\ProductType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T03:40:29.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PageBannerController.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\PageBannerController.cs",
-              "RelativeDocumentMoniker": "ProductService\\Controllers\\PageBannerController.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\PageBannerController.cs",
-              "RelativeToolTip": "ProductService\\Controllers\\PageBannerController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA5wDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:46:30.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductTypeController.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\ProductTypeController.cs",
-              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductTypeController.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\ProductTypeController.cs",
-              "RelativeToolTip": "ProductService\\Controllers\\ProductTypeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:43:36.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductInfoController.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\ProductInfoController.cs",
-              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductInfoController.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\ProductInfoController.cs",
-              "RelativeToolTip": "ProductService\\Controllers\\ProductInfoController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:41:24.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Program.cs",
-              "RelativeDocumentMoniker": "ProductService\\Program.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Program.cs",
-              "RelativeToolTip": "ProductService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:33:11.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\DbContext.cs",
-              "RelativeDocumentMoniker": "ProductService\\DbContext.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\DbContext.cs",
-              "RelativeToolTip": "ProductService\\DbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T04:31:18.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Hoc_Tap\\Future_Project\\EliteGears\\Backend\\WebMicroserviceAPI\\ProductService\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProductService\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T02:52:42.101Z",
-              "EditorCaption": ""
             }
           ]
         }

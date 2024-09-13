@@ -23,7 +23,8 @@ services:
     networks:
       - backend
     ports:
-      - 8004:80
+      - 8004:8080
+      - 8005:8081
     environment:
       - DB_HOST=userdb
       - DB_NAME=dms_user
@@ -35,7 +36,7 @@ services:
     environment:
       - MYSQL_ROOT_PASSWORD=password@123456
     ports:
-      - 8005:3306
+      - 8007:3306
     networks:
       - backend
 
@@ -48,7 +49,8 @@ services:
     networks:
       - backend
     ports:
-      - 8006:80
+      - 8008:8080
+      - 8009:8081
     environment:
       - DB_HOST=blogdb
       - DB_NAME=dms_blog
@@ -60,7 +62,7 @@ services:
     environment:
       - MYSQL_ROOT_PASSWORD=password@123456
     ports:
-      - 8007:3306
+      - 8011:3306
     networks:
       - backend
 
@@ -73,9 +75,57 @@ services:
     networks:
       - backend
     ports:
-      - 8008:80
+      - 8012:8080
+      - 8013:8081
     environment:
       - DB_HOST=shopdb
       - DB_NAME=dms_shop
       - DB_ROOT_PASSWORD=password@123456  
+  
+  productdb:
+    container_name: product-db
+    image: mongo
+    ports:
+      - 8015:27017
+    networks:
+      - backend
+  
+  productservice:
+    container_name: product-api
+    image: ${DOCKER_REGISTRY-}productservice
+    build:
+      context: .
+      dockerfile: ProductService/Dockerfile
+    ports:
+      - 8016:8080
+      - 8017:8081
+    networks:
+      - backend
+    environment:
+      - DB_HOST=productdb
+      - DB_NAME=dms_product
+
+  orderdb:
+    container_name: order-db
+    image: mongo
+    ports:
+      - 8019:27017
+    networks:
+      - backend
+  
+  orderservice:
+    container_name: order-api
+    image: ${DOCKER_REGISTRY-}orderservice
+    build:
+      context: .
+      dockerfile: OrderService/Dockerfile
+    ports:
+      - 8020:8080
+      - 8021:8081
+    networks:
+      - backend
+    environment:
+      - DB_HOST=orderdb
+      - DB_NAME=dms_order
+
 

@@ -1,7 +1,7 @@
 ﻿using MongoDB.Driver;
-using ProductService.Models;
+using OrderService.Models;
 
-namespace ProductService
+namespace OrderService
 {
     public class DbContext
     {
@@ -18,11 +18,9 @@ namespace ProductService
             _database = mongoClient.GetDatabase(mongoUrl.DatabaseName);
         }
 
-        public IMongoCollection<Products> Products => _database.GetCollection<Products>("Products");
-        public IMongoCollection<ProductInfo> ProductInfo => _database.GetCollection<ProductInfo>("Product_Info");
-        public IMongoCollection<ProductType> ProductType => _database.GetCollection<ProductType>("Product_Type");
-        public IMongoCollection<PageBanner> PageBanner => _database.GetCollection<PageBanner>("Page_Banner");
-
+        public IMongoCollection<Orders> Orders => _database.GetCollection<Orders>("Orders");
+        public IMongoCollection<OrderDiscount> OrderDiscount => _database.GetCollection<OrderDiscount>("Order_Discount");
+        public IMongoCollection<OrderLists> OrderLists => _database.GetCollection<OrderLists>("Order_Lists");
         // Nếu bạn có các collection khác, có thể thêm tương tự như trên
     }
 }
